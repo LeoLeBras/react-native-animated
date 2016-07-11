@@ -1,0 +1,21 @@
+{
+  "name": "react-native-animated",
+  "version": "1.0.0",
+  "description": "Tweaked AnimatedImplementation for react-native-mapview",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeoLeBras/react-native-animated.git"
+  },
+  "author": "Léo LE BRAS <leo.lebrasf@gmail.com> (http://github.com/LeoLeBras)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LeoLeBras/react-native-animated/issues"
+  },
+  "homepage": "https://github.com/LeoLeBras/react-native-animated#readme",
+  "peerDependencies": {
+    "fbjs": "~0.8.3",
+    "react": "~15.2.1",
+    "react-native": "~0.29.0 || ~0.28.0"
+  }
+}
